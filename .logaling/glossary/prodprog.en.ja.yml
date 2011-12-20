@@ -1,0 +1,76 @@
+---
+- source_term: user
+  target_term: ユーザ
+  note: ''
+- source_term: developer
+  target_term: ソフトウェア開発者
+  note: 文脈によっては開発者とする
+- source_term: data entry operators
+  target_term: データ入力作業者
+  note: ''
+- source_term: interface
+  target_term: インターフェイス
+  note: フェイス(境界面)をインターする(つなぐ)から
+- source_term: acceleration
+  target_term: 加速
+  note: パターン名
+- source_term: accelerators
+  target_term: 加速装置
+  note: メッセージをダイレクトに伝えたいのであえて日本語としたい
+- source_term: ceremony
+  target_term: 段取り
+  note: ''
+- source_term: live templetes
+  target_term: テンプレート機能
+  note: ''
+- source_term: don't Reinvent Wheels
+  target_term: 車輪の再発明をしない
+  note: ''
+- source_term: canonicality
+  target_term: 正準
+  note: ''
+- source_term: indirection
+  target_term: 間接参照
+  note: ''
+- source_term: make commands
+  target_term: ビルドツール
+  note: make utilityとかもまとめて
+- source_term: set-based
+  target_term: 集合ベース
+  note: ''
+- source_term: unit testing
+  target_term: ユニットテスト
+  note: ''
+- source_term: templete method
+  target_term: Templete Method
+  note: パターン名
+- source_term: singleton
+  target_term: Singleton
+  note: パターン名
+- source_term: reference
+  target_term: 参照
+  note: ''
+- source_term: state
+  target_term: 状態
+  note: ''
+- source_term: information radiator
+  target_term: 情報発信器
+  note: 情報発信器(Information Radiator)と原文をつけてもよい。アジャイル界隈ではこれが定訳
+- source_term: category
+  target_term: 分類
+  note: ''
+- source_term: fluent interface
+  target_term: 流れるようなインターフェイス
+  note: ''
+- source_term: Domain Specific Language
+  target_term: ドメイン特化言語
+  note: DSL。ドメイン固有言語とはしない
+- source_term: Composed Method
+  target_term: Composed Method
+  note: パターン名
+- source_term: Expression Builder
+  target_term: 式ビルダ
+  note: ''
+- source_term: little languages
+  target_term: ミニ言語
+  note: ''
